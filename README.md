@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing and project management
 - 🌱 I’m currently learning product design and cloud computing
 - 💞️ I’m looking to collaborate on product design
-- 📫 How to reach me yemsal4real@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/oluwayemisi-salami-296056216
 
 <!---
 Yemcee/Yemcee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
